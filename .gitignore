@@ -1,0 +1,8 @@
+*~
+#*
+.#*
+*.pyc
+alexa-files/*
+results_*
+digfile_*
+
